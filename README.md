@@ -131,15 +131,7 @@ Become an Expert Data Engineering Lead and Solution Architect.
 
 ---
 
-# 📈 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -151,11 +143,7 @@ Become an Expert Data Engineering Lead and Solution Architect.
 
 ---
 
-# 📊 GitHub Activity Graph
 
-[![Manish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
-
----
 
 # 🏆 GitHub Trophies
 
@@ -193,7 +181,7 @@ Become an Expert Data Engineering Lead and Solution Architect.
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/manishverma0000/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
